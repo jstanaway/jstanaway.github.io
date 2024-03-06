@@ -24,19 +24,6 @@ import fill_time_series as fill
 
 
 def set_ids():   
-    """
-    codem = {
-        "typhoid_male": 738714,
-        "typhoid_female": 738731,
-        "paratyphoid_male": 738715,
-        "paratyphoid_female": 738732,
-        "ints_male": 738726,
-        "ints_female":738745
-    }
-    """
-    
-
-
     meids = {
         "intest_parent": 2523,
         "typhoid_prop": 23991,
@@ -68,7 +55,7 @@ def set_ids():
         "ints_no_hiv": 9999,
         "ints_total": 9959
     }
-    return cids, meids #, codem
+    return cids, meids
 
 
 # In[3]:
@@ -86,8 +73,8 @@ if __name__ == '__main__':
         loc = 122
         level_3 = 'intest' # ints or intest
     
-    input_dir  = f'/ihme/scratch/users/stanaway/{level_3}/release_{release}/inputs/'
-    output_dir = f'/ihme/scratch/users/stanaway/{level_3}/release_{release}/draws/'
+    input_dir  = f'FILEPATH_REMOVED_FOR_SECURITY{level_3}/release_{release}/inputs/'
+    output_dir = f'FILEPATH_REMOVED_FOR_SECURITY{level_3}/release_{release}/draws/'
 
     cod_demog = get_demographics(gbd_team="cod", release_id = release)
     epi_demog = get_demographics(gbd_team="epi", release_id = release)
@@ -152,8 +139,7 @@ def main(loc):
     inc.loc[inc.age_group_id == 2, 'incidence'] = 0                   # given incubation period typhoid not possible in first week of life
     inc.loc[inc.age_group_id == 3, 'incidence'] = inc['incidence']/2  # given incubation period only half of this age group is at risk
 
-    
-    ######## ADD THIS COVERSION TO AN EARLIER FUNCTION ###
+    # Convert from Pandas to Polars for improved efficiency   
     inc = pl.from_pandas(inc)
     cause_split = pl.from_pandas(cause_split)
         
@@ -163,7 +149,7 @@ def main(loc):
         loc = in_loc
         
 
-    # Produce cod draws
+    # Produce cause of death draws
     if is_codem:
         if level_3 == 'intest':
             codem_model_ids = [get_latest_dr_codem_models(cids['typhoid'], 1, release), get_latest_dr_codem_models(cids['typhoid'], 2, release),
@@ -223,16 +209,13 @@ def main(loc):
     print('..Done.')
             
 
-    #return epi_draws, inc, cod_draws, cause_split   # 
- 
-
 
 # In[5]:
 
 
 def get_latest_dr_codem_models(cause_id, sex_id, release):
     varlist = ['model_version_id', 'cause_id', 'sex_id', 'date_inserted']
-    db = pymysql.connect(host = 'modeling-cod-db.ihme.washington.edu', user = 'dbview', password = 'E3QNSLvQTRJm', database = 'cod') 
+    db = pymysql.connect(host = 'HOST_REMOVED_FOR_SECURITY', user = 'USER_REMOVED_FOR_SECURITY', password = 'PASS_REMOVED_FOR_SECURITY', database = 'DB_REMOVED_FOR_SECURITY') 
     
     with db:
         with db.cursor() as cursor:
@@ -243,10 +226,7 @@ def get_latest_dr_codem_models(cause_id, sex_id, release):
             cod_models = pd.DataFrame(cursor.fetchall(), columns = varlist)
     
     latest = cod_models.groupby(['cause_id', 'sex_id'])['model_version_id'].max().item()
-    #cod_models = cod_models[cod_models.model_version_id.isin(latest)]
-    #cids = cod_models['model_version_id'].tolist()
-
-    return latest #cids
+    return latest 
 
 
 # In[6]:
@@ -384,10 +364,6 @@ Dependencies:
 
 Returns: 
 - df = pd.df; dataframe of draws
-
-To do:
-- IMPORTANT: Make sure to check on age restrictions for ints to see if this zeroing out real estimates
-- consider recoding with Polars instead of Pandas for speed and consistency
 """
 
 
@@ -433,7 +409,6 @@ def get_cod_draws(cid, version_id, min_age = 3):
 def interpolate_draws(df, meid, model_version, release, value_name, xform = None):
     # Read in the trend file with the full interpolated time series of point estimates
     trend, status = fill.fill_dismod_trend(meid, model_version, release, loc)
-    #trend = pd.read_csv(os.path.join(input_dir, f'trend_{meid}_{model_version}.csv'))
     
     # Retain only the current location
     trend = trend.loc[trend.location_id==loc, ]
@@ -470,7 +445,7 @@ def get_case_fatality_draws(loc, level_3):
     if level_3 == 'intest':
         # Case fatality varies based on income category.  
         # For most locations, pull income category from the database;
-        # for locations with no value in database, hard code here   
+        # for locations with no value in database, hard code here (based on World Bank)   
 
         if loc in [8, 369, 374, 413]:
             income = "Upper middle income"
@@ -481,7 +456,7 @@ def get_case_fatality_draws(loc, level_3):
             country_id = int(loc_meta.loc[loc_meta.location_id==loc]['path_to_top_parent'].str.split(",").tolist()[0][3])
 
             # Connect to the shared database, open the cursor, and execute the SQL query
-            db = pymysql.connect(host = "modeling-cod-db.ihme.washington.edu", user = "dbview", password = "E3QNSLvQTRJm", database = "shared") 
+            db = pymysql.connect(host = "HOST_REMOVED_FOR_SECURITY", user = "USER_REMOVED_FOR_SECURITY, password = "PASS_REMOVED_FOR_SECURITY", database = "DB_REMOVED_FOR_SECURITY") 
 
             # Execute the SQL query and fetch all matching data
             with db:
@@ -706,6 +681,5 @@ def export_epi(df):
 
 
 if __name__ == '__main__':   
-    #epi_draws, inc, cod_draws, cause_split = main(loc)  
     main(loc)
 
