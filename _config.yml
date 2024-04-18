@@ -6,6 +6,6 @@ description: CV and portfolio
 theme: minima
  # Generate social links in footer.
  # social_links:
- #  - { platform: github,         user_url: "https://github.com/jstanaway/jstanaway.github.io" }
- #  - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=URpg89oAAAAJ&hl=en" }
- #  - { platform: linkedin,       user_url: "hhttps://www.linkedin.com/in/jeffrey-stanaway-26496b86/" }
+{ platform: github,         user_url: "https://github.com/jstanaway/jstanaway.github.io" }
+{ platform: google_scholar, user_url: "https://scholar.google.com/citations?user=URpg89oAAAAJ&hl=en" }
+{ platform: linkedin,       user_url: "hhttps://www.linkedin.com/in/jeffrey-stanaway-26496b86/" }
