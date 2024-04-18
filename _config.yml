@@ -7,14 +7,14 @@ theme: minima
 
 minima:
   social_links:
-    - platform: github  # same as SVG filename.
-      user_url: "https://github.com/jstanaway/jstanaway.github.io"  # URL of profile page.
-      title:  My public GitHub repo  # Optional. Text displayed on hovering over link.
-    - platform: google_scholar
-      user_url: "https://scholar.google.com/citations?user=URpg89oAAAAJ&hl=en"
-    - platform: linkedin
-      user_url: "hhttps://www.linkedin.com/in/jeffrey-stanaway-26496b86/"
-      
-# {platform: github, user_url: "https://github.com/jstanaway/jstanaway.github.io"}
-#{ platform: google_scholar, user_url: "https://scholar.google.com/citations?user=URpg89oAAAAJ&hl=en" }
-#{ platform: linkedin,       user_url: "hhttps://www.linkedin.com/in/jeffrey-stanaway-26496b86/" }
+    - { platform: github,         user_url: "https://github.com/jstanaway/jstanaway.github.io" }
+    - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=URpg89oAAAAJ&hl=en" }
+    - { platform: linkedin,       user_url: "hhttps://www.linkedin.com/in/jeffrey-stanaway-26496b86/" }
+
+ #   - platform: github  # same as SVG filename.
+ #     user_url: "https://github.com/jstanaway/jstanaway.github.io"  # URL of profile page.
+ #     title:  My public GitHub repo  # Optional. Text displayed on hovering over link.
+ #   - platform: google_scholar
+ #     user_url: "https://scholar.google.com/citations?user=URpg89oAAAAJ&hl=en"
+ #   - platform: linkedin
+ #     user_url: "hhttps://www.linkedin.com/in/jeffrey-stanaway-26496b86/"
