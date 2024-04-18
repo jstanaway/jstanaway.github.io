@@ -6,6 +6,8 @@ description: CV and portfolio
 theme: minima
 author: testing author
 
+github_username:  jstanaway
+
 sass:
   style: compressed
   sass_dir: _sass
