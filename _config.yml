@@ -1,5 +1,6 @@
 title: Jeffrey Stanaway, MPH PhD
-logo: /assets/img/headshot_circle.png
+#logo: /assets/img/headshot_circle.png
 description: CV and portfolio
-show_downloads: false
-theme: jekyll-theme-minima
+#show_downloads: false
+#theme: jekyll-theme-minima
+theme: minima
