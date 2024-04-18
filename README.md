@@ -20,8 +20,11 @@ Virginia Polytechnic Institute & State University (Virginia Tech)
 
 ### Select Project Code
 * [Forecasting the burden of invasive non-typhoidal Salmonella (iNTS)](https://github.com/jstanaway/jstanaway.github.io/tree/master/ints_forecasting)
+  <img src="/assets/img/r_logo.svg" width="20" />
 * [Estimating the burden of typhoid, paratyphoid, and iNTS for the Global Burden of Disease study (GBD)](https://github.com/jstanaway/jstanaway.github.io/tree/master/enteric_fever)
+  <img src="/assets/img/google-scholar.svg" width="50" />
 * [Estimating the burden of disease attributable to non-optimal temperature](https://github.com/jstanaway/jstanaway.github.io/tree/master/temperature)
+  <img src="/assets/img/google-scholar.svg" width="50" />
 
 ### Select Publications
 * [Health effects associated with vegetable consumption: a Burden of Proof study, Nature Medicine](assets/pdfs/vegBop.pdf)
