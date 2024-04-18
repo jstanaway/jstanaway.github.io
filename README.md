@@ -1,10 +1,9 @@
-# Epidemiologist and Data Scientist
+# Jeffrey Stanaway, MPH PhD
 
-[<img src="/assets/img/google-scholar.svg" width="100" />](https://scholar.google.com/citations?user=URpg89oAAAAJ&hl=en)
-[<img src="/assets/img/linkedin.png" width="100" />](https://www.linkedin.com/in/jeffrey-stanaway-26496b86/)
+[<img src="/assets/img/google-scholar.svg" width="50" />](https://scholar.google.com/citations?user=URpg89oAAAAJ&hl=en)
+[<img src="/assets/img/linkedin.png" width="50" />](https://www.linkedin.com/in/jeffrey-stanaway-26496b86/)
 
 
-#[![Google Scholar Logo](/assets/img/google-scholar.svg)](https://scholar.google.com/citations?user=URpg89oAAAAJ&hl=en)
 
 
 ### Education
