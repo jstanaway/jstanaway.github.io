@@ -1,4 +1,4 @@
-#  -  
+  
 
 [<img src="/assets/img/google-scholar.svg" width="50" />](https://scholar.google.com/citations?user=URpg89oAAAAJ&hl=en)
 [<img src="/assets/img/linkedin.png" width="50" />](https://www.linkedin.com/in/jeffrey-stanaway-26496b86/)
@@ -22,7 +22,7 @@ Virginia Polytechnic Institute & State University (Virginia Tech)
 * [Estimating the burden of typhoid, paratyphoid, and iNTS for the Global Burden of Disease study (GBD)](https://github.com/jstanaway/jstanaway.github.io/tree/master/enteric_fever)
 * [Estimating the burden of disease attributable to non-optimal temperature](https://github.com/jstanaway/jstanaway.github.io/tree/master/temperature)
 
-## Select Publications
+### Select Publications
 * [Health effects associated with vegetable consumption: a Burden of Proof study, Nature Medicine](assets/pdfs/vegBop.pdf)
 * [Estimating the cause-specific relative risks of non-optimal temperature on daily mortality: a two-part modelling approach applied to the Global Burden of Disease Study, The Lancet](assets/pdfs/temperatureGBD2019.pdf)
 * [The global burden of non-typhoidal salmonella invasive disease: a systematic analysis for the Global Burden of Disease Study 2017, The Lancet Infectious Diseases](assets/pdfs/intsBurden2017.pdf)
