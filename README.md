@@ -17,6 +17,20 @@ R, Stata, SQL, learning Python
 * B.S., Biology & B.S., Human Nutrition, Foods & Exercise,
 Virginia Polytechnic Institute & State University (Virginia Tech)
 
+### Select Projects
+* [Forecasting the burden of invasive non-typhoidal Salmonella (iNTS)](ints_forecasting)
+* [Estimating the burden of typhoid, paratyphoid, and iNTS for the Global Burden of Disease study (GBD)](enteric_fever)
+* [Estimating the burden of disease attributable to non-optimal temperature](temperature)
+
+## Select Publications
+* [Health effects associated with vegetable consumption: a Burden of Proof study, Nature Medicine](assets/pdfs/vegBop.pdf)
+* [Estimating the cause-specific relative risks of non-optimal temperature on daily mortality: a two-part modelling approach applied to the Global Burden of Disease Study, The Lancet](assets/pdfs/temperatureGBD2019.pdf)
+* [The global burden of non-typhoidal salmonella invasive disease: a systematic analysis for the Global Burden of Disease Study 2017, The Lancet Infectious Diseases](assets/pdfs/intsBurden2017.pdf)
+* [The global burden of typhoid and paratyphoid fevers: a systematic analysis for the Global Burden of Disease Study 2017, The Lancet Infectious Diseases](assets/pdfs/typhoidBurden2017.pdf)
+* [Global, regional, and national comparative risk assessment of 84 behavioural, environmental and occupational, and metabolic risks or clusters of risks for 195 countries and territories, 1990–2017: a systematic analysis for the Global Burden of Disease Study 2017, The Lancet](assets/pdfs/riskFactorCapstone2017.pdf)
+* [The global burden of viral hepatitis from 1990 to 2013: findings from the Global Burden of Disease Study 2013, The Lancet](assets/pdfs/viralHepatitis2013.pdf)
+* [The global burden of dengue: an analysis from the Global Burden of Disease Study 2013, The Lancet Infectious Diseases](assets/pdfs/dengueBurden2013.pdf)
+    
 ### Experience
 Institute for Health Metrics & Evaluation, University of Washington | Seattle, WA | 2023 – Present  
 Associate Professor, Health Metrics Sciences & Global Health  
@@ -39,6 +53,6 @@ Acting Assistant Professor, Global Health
 *	Supervised and mentored fellows; and
 *	Conducted training workshops on statistical programming.
 
-### Projects
+
 
 
