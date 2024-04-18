@@ -1,6 +1,8 @@
 # Epidemiologist and Data Scientist
 
-[![Google Scholar Logo](/assets/img/google-scholar.svg)](https://scholar.google.com/citations?user=URpg89oAAAAJ&hl=en){:target="_blank"}
+[<img src="/assets/img/google-scholar.svg" width="200" />](https://scholar.google.com/citations?user=URpg89oAAAAJ&hl=en)
+[![Google Scholar Logo](/assets/img/google-scholar.svg)](https://scholar.google.com/citations?user=URpg89oAAAAJ&hl=en)
+
 
 ### Education
 Ph.D., Epidemiology, 
