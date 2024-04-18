@@ -1,4 +1,7 @@
-# Graph Gallery
+---
+title: "Graph Gallery"
+---
+
 ### Typhoid conversion
 <img src="/assets/graphs/conversionByYear_cs3_default.png" />
 
