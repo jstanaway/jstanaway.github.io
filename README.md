@@ -18,7 +18,7 @@ R, Stata, SQL, learning Python
 * B.S., Biology & B.S., Human Nutrition, Foods & Exercise,
 Virginia Polytechnic Institute & State University (Virginia Tech)
 
-### Select Projects
+### Select Project Code
 * [Forecasting the burden of invasive non-typhoidal Salmonella (iNTS)](https://github.com/jstanaway/jstanaway.github.io/tree/master/ints_forecasting)
 * [Estimating the burden of typhoid, paratyphoid, and iNTS for the Global Burden of Disease study (GBD)](https://github.com/jstanaway/jstanaway.github.io/tree/master/enteric_fever)
 * [Estimating the burden of disease attributable to non-optimal temperature](https://github.com/jstanaway/jstanaway.github.io/tree/master/temperature)
