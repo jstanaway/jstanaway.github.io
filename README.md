@@ -26,6 +26,9 @@ Virginia Polytechnic Institute & State University (Virginia Tech)
 * [Estimating the burden of disease attributable to non-optimal temperature](https://github.com/jstanaway/jstanaway.github.io/tree/master/temperature)
   <img src="/assets/img/r_logo.svg" height="15" />
 
+### [Graph Gallery](graph_gallery.md)  
+[Graph Gallery](graph_gallery.html)  
+
 ### Select Publications
 * [Health effects associated with vegetable consumption: a Burden of Proof study, Nature Medicine](assets/pdfs/vegBop.pdf)
 * [Estimating the cause-specific relative risks of non-optimal temperature on daily mortality: a two-part modelling approach applied to the Global Burden of Disease Study, The Lancet](assets/pdfs/temperatureGBD2019.pdf)
