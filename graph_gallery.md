@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## Welcome to another page
+## Graph gallery
 
-_yay_
+[<img src="/assets/graphs/conversionByYear_cs3_default.png" width="500" />]
 
 [back](./)
