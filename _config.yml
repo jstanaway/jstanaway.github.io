@@ -5,6 +5,12 @@ description: CV and portfolio
 #theme: jekyll-theme-minima
 theme: minima
 
+sass:
+  style: compressed
+  sass_dir: _sass
+  include:
+    - assets/css/style.css
+    
 minima:
   social_links:
     - { platform: github,         user_url: "https://github.com/jstanaway/jstanaway.github.io" }
