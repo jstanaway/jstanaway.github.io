@@ -1,5 +1,7 @@
 # Epidemiologist and Data Scientist
 
+[Google Scholar](/assets/img/google-scholar.svg)
+
 ### Education
 Ph.D., Epidemiology, 
 University of Washington
