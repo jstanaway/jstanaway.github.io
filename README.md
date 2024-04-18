@@ -28,7 +28,7 @@ Virginia Polytechnic Institute & State University (Virginia Tech)
 * [The global burden of non-typhoidal salmonella invasive disease: a systematic analysis for the Global Burden of Disease Study 2017, The Lancet Infectious Diseases](assets/pdfs/intsBurden2017.pdf)
 * [The global burden of typhoid and paratyphoid fevers: a systematic analysis for the Global Burden of Disease Study 2017, The Lancet Infectious Diseases](assets/pdfs/typhoidBurden2017.pdf)
 * [Global, regional, and national comparative risk assessment of 84 behavioural, environmental and occupational, and metabolic risks or clusters of risks for 195 countries and territories, 1990–2017: a systematic analysis for the Global Burden of Disease Study 2017, The Lancet](assets/pdfs/riskFactorCapstone2017.pdf)
-* [The global burden of viral hepatitis from 1990 to 2013: findings from the Global Burden of Disease Study 2013, The Lancet](assets/pdfs/viralHepatitis2013.pdf)
+* [The global burden of viral hepatitis from 1990 to 2013: findings from the Global Burden of Disease Study 2013, The Lancet](assets/pdfs/viralHepatitisGBD2013.pdf)
 * [The global burden of dengue: an analysis from the Global Burden of Disease Study 2013, The Lancet Infectious Diseases](assets/pdfs/dengueBurden2013.pdf)
     
 ### Experience
