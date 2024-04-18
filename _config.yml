@@ -4,6 +4,7 @@ description: CV and portfolio
 #show_downloads: false
 #theme: jekyll-theme-minima
 theme: minima
+author: testing author
 
 sass:
   style: compressed
