@@ -1,44 +1,40 @@
-# vCard - Personal portfolio
+# Epidemiologist and Data Scientist
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+### Education
+Ph.D., Epidemiology, 
+University of Washington
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+M.P.H., Family & Child Health (International Health Track), University of Arizona
 
-## Demo
+B.S., Biology & 
+B.S., Human Nutrition, Foods & Exercise,
+Virginia Polytechnic Institute & State University (Virginia Tech)
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+### Experience
+Institute for Health Metrics & Evaluation, 
+University of Washington | Seattle, WA | 2023 – Present
+Associate Professor, Health Metrics Sciences & Global Health
+Adjunct Associate Professor, Epidemiology
+•	Model disease burden attributable to enteric infections, climate, and climate-change for the Global Burden of Disease Study;
+•	Supervise the work of Researchers and Analysts working on dietary risk factors, water supply and sanitation, lead, and radon;
+•	Teach statistical programming and applied analysis, guest lecture, mentor students, and serve on various committees for the University and broader scientific community; and
+•	Develop and maintain collaborative relationships with large international network of scientists and policy makers.
 
-## Prerequisites
+Institute for Health Metrics & Evaluation, 
+University of Washington | Seattle, WA | 2016 – 2023
+Assistant Professor, Health Metrics Sciences and Global Health
+Adjunct Assistant Professor, Epidemiology
+•	Led the Neglected Tropical Diseases team of the Global Burden of Disease Study;
+•	Developed methods and code pipeline for first-ever estimates of climate-attributable burden and invasive non-typhoidal Salmonella in the Global Burden of Disease Study; and
+•	Modelled disease burden attributable to Chagas disease, cutaneous and visceral leishmaniasis, lymphatic filariasis, and typhoid and paratyphoid fevers.
 
-Before you begin, ensure you have met the following requirements:
+Institute for Health Metrics & Evaluation, 
+University of Washington | Seattle, WA | 2013 – 2016
+Acting Assistant Professor, Global Health
+•	Modelled hepatitis A, B, C, and E; Chagas disease, cirrhosis, dengue, typhoid and paratyphoid fevers rabies, trachoma, yellow fever for the Global Burden of Disease Study;
+•	Supervised and mentored fellows; and
+•	Conducted training workshops on statistical programming.
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+### Projects
 
-## Installing vCard
 
-To install **vCard**, follow these steps:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-## Contact
-
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-## License
-
-MIT
