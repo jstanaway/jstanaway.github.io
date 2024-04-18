@@ -3,7 +3,9 @@ title: Jeffrey Stanaway, MPH PhD
 description: CV and portfolio
 #show_downloads: false
 #theme: jekyll-theme-minima
-theme: minima:
+theme: minima
+
+minima:
   social_links:
     - platform: github  # same as SVG filename.
       user_url: "https://github.com/jstanaway/jstanaway.github.io"  # URL of profile page.
