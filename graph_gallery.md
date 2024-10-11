@@ -13,7 +13,7 @@ title: "Graph Gallery"
 <img src="/assets/graphs/dengueDalyTrendsByRegion.svg" />
 <img src="/assets/graphs/exposureDensityByZone.png" />
 <img src="/assets/graphs/globalMrTimeSeries_wDraws_logRate27.png" />
-<img src="/assets/graphs/lead_cvd_paf_map_viridisB.svg" />
+<img src="/assets/graphs/lead_cvd_paf_map_viridisB.jpg" />
 <img src="/assets/graphs/persondaysAbove30BySrYearStacked_Current_Policies.png" />
 
 
