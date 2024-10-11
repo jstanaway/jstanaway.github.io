@@ -4,6 +4,7 @@ title: "Graph Gallery"
 
 ### Typhoid conversion
 <img src="/assets/graphs/Reference_No_Policy_tempDist_facetBySR_wPopGrowth.gif" />
+<img src="/assets/graphs/pafs_lri_heat_cold_select_locs_facet_20240923.png" />
 <img src="/assets/graphs/_all_tempMetricCompare_logRr_extend5.png" />
 <img src="/assets/graphs/causeCompByYear_high.png" />
 <img src="/assets/graphs/compBars_dalys+deaths.png" />
