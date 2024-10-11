@@ -10,13 +10,13 @@
 Epidemiology | Data Analysis and Modelling | Global Health | Data Science | Data Cleaning | Data Management | Data Visualization | R Coding | Big Data | Scientific Writing | Program management | Collaborator engagement | Teaching and presenting
 
 ### Statistical Software
-R, Stata, SQL, learning Python
+R, Stata, Pythong, SQL
 
 ### Education
 * Ph.D., Epidemiology, University of Washington
 * M.P.H., Family & Child Health (International Health Track), University of Arizona
-* B.S., Biology & B.S., Human Nutrition, Foods & Exercise,
-Virginia Polytechnic Institute & State University (Virginia Tech)
+* B.S., Biology, Virginia Polytechnic Institute & State University (Virginia Tech)
+* B.S., Human Nutrition, Foods & Exercise, Virginia Polytechnic Institute & State University (Virginia Tech)
 
 ### Select Project Code
 * [Forecasting the burden of invasive non-typhoidal Salmonella (iNTS)](https://github.com/jstanaway/jstanaway.github.io/tree/master/ints_forecasting)
@@ -54,12 +54,12 @@ Assistant Professor, Health Metrics Sciences and Global Health
 Adjunct Assistant Professor, Epidemiology  
 *	Led the Neglected Tropical Diseases team of the Global Burden of Disease Study;
 *	Developed methods and code pipeline for first-ever estimates of climate-attributable burden and invasive non-typhoidal Salmonella in the Global Burden of Disease Study; and
-*	Modelled disease burden attributable to Chagas disease, cutaneous and visceral leishmaniasis, lymphatic filariasis, and typhoid and paratyphoid fevers.
+*	Modelled disease burden attributable to Chagas disease, cutaneous and visceral leishmaniasis, dengue, lymphatic filariasis, typhoid and paratyphoid fevers, and yellow fever.
 
 Institute for Health Metrics & Evaluation,   
 University of Washington | Seattle, WA | 2013 – 2016  
 Acting Assistant Professor, Global Health
-*	Modelled hepatitis A, B, C, and E; Chagas disease, cirrhosis, dengue, typhoid and paratyphoid fevers rabies, trachoma, yellow fever for the Global Burden of Disease Study;
+*	Modelled Chagas disease, cirrhosis, dengue, hepatitis (A, B, C, and E), rabies, trachoma, typhoid and paratyphoid fevers, and yellow fever for the Global Burden of Disease Study;
 *	Supervised and mentored fellows; and
 *	Conducted training workshops on statistical programming.
 
